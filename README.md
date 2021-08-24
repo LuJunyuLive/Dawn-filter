@@ -10,7 +10,7 @@ Dawn DNS filter + Dawn filter 交叉去重
 
 ## Dawn filter (内容过滤)
 
-去重并合并自AdGuard Base filter + AdGuard Mobile Ads filter + AdGuard Tracking Protection filter + AdGuard Social Media filter + AdGuard Annoyances filter + AdGuard Chinese filter + EasyPrivacy + Fanboy's Enhanced Tracking listView List + Fanboy's Annoyances + anti-AD for AdGuard + ADgk
+去重并合并自AdGuard Base filter + AdGuard Mobile Ads filter + AdGuard Tracking Protection filter + AdGuard Social Media filter + AdGuard Annoyances filter + AdGuard Chinese filter + EasyPrivacy + Fanboy's Annoyances + CJX's Annoyance List + anti-AD for AdGuard + ADgk + xinggsf
 
 适用于AdGuard
 
