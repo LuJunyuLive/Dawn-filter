@@ -10,9 +10,9 @@ Dawn DNS filter + Dawn filter 交叉去重
 
 适用于AdGuard Home、AdGuard、uBlock Orign
 
-`原始规则数: 139408`
+`原始规则数: 139411`
 
-`合并规则数: 79044`
+`合并规则数: 79048`
 
 
 
@@ -28,9 +28,9 @@ cdn: https://cdn.jsdelivr.net/gh/LuJunyuLive/Dawn-filter@main/easylist.txt
 
 适用于AdGuard
 
-`原始规则数: 234176`
+`原始规则数: 234242`
 
-`合并规则数: 144976`
+`合并规则数: 145038`
 
 
 
